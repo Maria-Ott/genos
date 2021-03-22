@@ -1,0 +1,72 @@
+.nav {
+    width: 800px;
+    margin: 0px;
+    height: 46px;
+    background-color: rgb(172, 172, 248);
+    color:white;
+}
+
+.glav {
+    margin-left: 141px;
+    background-color: rgb(42, 42, 160);
+    width: 510px;
+    line-height: 30px;
+}
+
+.article {
+    background-color: rgb(42, 42, 160);
+    color: white;
+    margin: 0px;
+    width: 800px;
+    float: left;
+}
+
+.h1 {
+    margin-left: 120px;
+}
+
+.otel {
+    margin-left: 500px;
+}
+
+.aside {
+    background-color: rgb(172, 172, 248);
+    color:rgb(8, 25, 63);
+    margin: 0px;
+    width: 800px;
+}
+
+.section {
+    background-color: rgb(85, 85, 212);
+    margin: 0px;
+    width: 800px;
+}
+
+.h3 {
+    margin-left: 500px;
+}
+
+.border {
+    border: 5px solid #270772;
+}
+
+.motel1 {
+    margin: 45px;
+    margin-left: 400px;
+}
+
+.motel2 {
+    margin: 45px;
+    margin-left: 400px;
+}
+
+.motel3 {
+    margin: 45px;
+    margin-left: 400px;
+}
+
+.footer {
+    background-color: rgb(42, 42, 160);
+    margin: 0px;
+    width: 800px;
+}
